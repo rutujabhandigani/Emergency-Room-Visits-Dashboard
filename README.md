@@ -9,6 +9,6 @@ Visualization of key metrics and breakdowns related to patient visits to the Eme
 3. Breakdown by patient age group
 4. Breakdown by patient race
 5. Breakdown by hospital department referral
-6. Analysis of visit trends over time
+6. Analysis of visit trends over time <br> <br>
 
 <img width="1372" alt="Dashboard_Screenshot" src="https://github.com/rutujabhandigani/Emergency-Room-Visits-Dashboard/assets/55191928/c5c7d9cb-262c-4f95-8d8e-2b6d5e2ca3c5">
